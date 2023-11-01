@@ -19,7 +19,7 @@ const poems = [
   {
     author: "Mariana",
     poem: "Testing",
-    image: "bee.jpeg",
+    image: "bee.jpeg nates edits!!!!!"
   },
 ];
 
