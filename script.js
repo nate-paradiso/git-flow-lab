@@ -22,6 +22,11 @@ const poems = [
     image: "pizza.jpeg"
   },
 ];
+{
+  author: "Natasha";
+  poem: "Roses Are Read";
+  image: ""
+};
 
 let displayPoems = (array) => {
   let html = "";
